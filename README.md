@@ -13,8 +13,8 @@ passing them through a final linear layer.
 2. Generating Text with Recurrent Networks:
 
 This project involves training a model to generate movie plots using RNNs based on two instances:
-1. uncoditioned text generation 
-2. conditioned on images (image-captioning)
+  1. uncoditioned text generation 
+  2. conditioned on images (image-captioning)
 
 
 3. MSVD Video Captioning System:
